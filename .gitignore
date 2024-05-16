@@ -5,7 +5,7 @@
 out/
 
 # 忽略程序输出
-output/
+#output/
 
 # 忽略备份
 .bak/
